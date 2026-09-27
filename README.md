@@ -1,20 +1,75 @@
-# Renewable Transition Monitor
+Renewable Transition Monitor is a Python desktop analytics application for comparing Egypt’s renewable electricity share with the global benchmark.
 
-A Tkinter desktop application for comparing Egypt's renewable electricity share with the global benchmark. It uses real data from Our World in Data and provides a calm, evidence-first visualization.
+The application uses real energy data from Our World in Data and provides interactive visualization and comparative analysis.
 
-## Run on Windows
+Project Objective
 
-بعد فك الضغط، اضغط مرتين على ملف `run.bat` وسيتم تثبيت المتطلبات وتشغيل التطبيق تلقائيًا. أو شغّله من PowerShell:
+The project tracks renewable electricity development in Egypt and compares it with the global benchmark across different years.
 
-```powershell
-py -m pip install -r requirements.txt
-py app.py
-```
+It provides:
 
-## Skills shown
+Renewable electricity share visualization
 
-Python, Tkinter, Pandas, Matplotlib, sustainability analytics, benchmark comparison, and executive reporting.
+Egypt and global benchmark comparison
 
-Source: https://github.com/owid/energy-data
+Year to year analysis
 
-#Python #Tkinter #Sustainability #DataAnalytics
+Growth scenario analysis
+
+Renewable energy target tracking
+
+Interactive desktop analytics
+
+My Role
+
+I designed and developed the complete application.
+
+I handled data processing, comparative analysis, visualization, target tracking, scenario analysis, and the desktop interface.
+
+Technologies
+
+Python
+
+Tkinter
+
+Pandas
+
+Matplotlib
+
+Sustainability Analytics
+
+Data Visualization
+
+Dataset
+
+Our World in Data Energy Dataset
+
+The project uses real energy data to analyze renewable electricity shares for Egypt and the world.
+
+Source:
+
+https://github.com/owid/energy-data
+
+Key Results
+
+The application displays the latest available Egypt renewable electricity share and the global benchmark.
+
+It allows users to select different years, compare growth rates, and check when Egypt reaches a selected renewable energy target.
+
+Project Type
+
+Data Analytics
+
+Sustainability Analytics
+
+Energy Data Analysis
+
+Comparative Analysis
+
+Desktop Application
+
+Author
+
+Mahmoud Osama Mohamed Hassan Mabrouk
+
+2025
